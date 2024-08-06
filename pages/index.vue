@@ -15,7 +15,7 @@
         <span class="text-3xl"> Coming Soon </span>
       </v-card-title>
       <v-card-text class="text-gray-700 mb -6">
-        Meanwhile, you can visit our other sites:
+        Meanwhile, you can try visit my other sites:
       </v-card-text>
       <div class="mb-6">
         <div
@@ -41,7 +41,7 @@ export default {
   data() {
     return {
       links: [
-        { name: 'Anime Site', url: 'https://anime.dheep.site' },
+        { name: 'Anime Site', url: 'https://dhitgt.github.io/anime' },
         {
           name: '1945 Uncolonized Game',
           url: 'https://dhitgt.github.io/1945/',
